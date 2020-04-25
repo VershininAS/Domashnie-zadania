@@ -1,0 +1,3 @@
+﻿  Vstrecha 27.cpp
+C:\Users\Алексей\source\repos\DZ\Vstrecha 27\Vstrecha 27\Vstrecha 27.cpp(21,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Vstrecha 27.vcxproj -> C:\Users\Алексей\source\repos\DZ\Vstrecha 27\Debug\Vstrecha 27.exe

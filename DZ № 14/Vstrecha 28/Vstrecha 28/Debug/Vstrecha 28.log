@@ -1,0 +1,4 @@
+﻿  Vstrecha 28.cpp
+C:\Users\Алексей\source\repos\DZ\Vstrecha 28\Vstrecha 28\Vstrecha 28.cpp(52,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Алексей\source\repos\DZ\Vstrecha 28\Vstrecha 28\Vstrecha 28.cpp(39): warning C4172: возвращение адреса локальной или временной переменной : size1
+  Vstrecha 28.vcxproj -> C:\Users\Алексей\source\repos\DZ\Vstrecha 28\Debug\Vstrecha 28.exe
