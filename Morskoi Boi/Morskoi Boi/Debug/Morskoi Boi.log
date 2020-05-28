@@ -1,0 +1,3 @@
+﻿  Morskoi Boi.cpp
+C:\Users\Алексей\source\repos\DZ\Morskoi Boi\Morskoi Boi\Morskoi Boi.cpp(32,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Morskoi Boi.vcxproj -> C:\Users\Алексей\source\repos\DZ\Morskoi Boi\Debug\Morskoi Boi.exe

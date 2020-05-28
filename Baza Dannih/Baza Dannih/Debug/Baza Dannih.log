@@ -1,0 +1,7 @@
+﻿  Baza Dannih.cpp
+C:\Users\Алексей\source\repos\DZ\Baza Dannih\Baza Dannih\Function.h(10,35): error C2027: использование неопределенного типа "Deti"
+  Function.cpp
+C:\Users\Алексей\source\repos\DZ\Baza Dannih\Baza Dannih\Function.h(7): message : см. объявление "Deti"
+C:\Users\Алексей\source\repos\DZ\Baza Dannih\Baza Dannih\Function.h(10,35): error C2027: использование неопределенного типа "Deti"
+  Создание кода...
+C:\Users\Алексей\source\repos\DZ\Baza Dannih\Baza Dannih\Function.h(7): message : см. объявление "Deti"

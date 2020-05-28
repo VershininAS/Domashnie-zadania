@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Baza Dannih", "Baza Dannih\Baza Dannih.vcxproj", "{FF312DBE-B701-482D-8589-2687CF988236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF312DBE-B701-482D-8589-2687CF988236}.Debug|x64.ActiveCfg = Debug|x64
+		{FF312DBE-B701-482D-8589-2687CF988236}.Debug|x64.Build.0 = Debug|x64
+		{FF312DBE-B701-482D-8589-2687CF988236}.Debug|x86.ActiveCfg = Debug|Win32
+		{FF312DBE-B701-482D-8589-2687CF988236}.Debug|x86.Build.0 = Debug|Win32
+		{FF312DBE-B701-482D-8589-2687CF988236}.Release|x64.ActiveCfg = Release|x64
+		{FF312DBE-B701-482D-8589-2687CF988236}.Release|x64.Build.0 = Release|x64
+		{FF312DBE-B701-482D-8589-2687CF988236}.Release|x86.ActiveCfg = Release|Win32
+		{FF312DBE-B701-482D-8589-2687CF988236}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEF61DFA-75B6-46EE-9272-8B0526B5A5FA}
+	EndGlobalSection
+EndGlobal
